@@ -1,4 +1,4 @@
-### Hi there, I am [Silvanus!](https://silvanus21.github.io/My-Website/)👋
+### Hi there, I am [Silvanus!](https://silvanus21.github.io/My-Website/index.html)👋
 
 <a href="https://github.com/Silvanus21">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Silvanus21&show_icons=true&include_all_commits=true&theme=merko" alt="Silvanus's github stats" />
