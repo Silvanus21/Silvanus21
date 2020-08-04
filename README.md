@@ -1,5 +1,11 @@
-### Hi there, I am Silvanus!👋
+### Hi there, I am [Silvanus!](https://silvanus21.github.io/My-Website/)👋
 
-[![Silvanus's github stats](https://github-readme-stats.vercel.app/api?username=Silvanus21&show_icons=true&theme=merko&bg_color=222)](https://github.com/Silvanus21/Silvanus21)
+<a href="https://github.com/Silvanus21">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Silvanus21&show_icons=true&include_all_commits=true&theme=merko" alt="Silvanus's github stats" />
+</a>
 
-- 🌱 I’m currently learning MongoDB & Python
+<a href="https://github.com/Silvanus21">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silvanus21&layout=compact&theme=merko" />
+</a>
+
+- 🌱 I’m currently learning AWS & Python
