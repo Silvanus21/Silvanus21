@@ -8,4 +8,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silvanus21&layout=compact&theme=merko" />
 </a>
 
-- 🌱 I’m currently learning AWS & Python
+- 🌱 I’m currently learning AWS & Django
