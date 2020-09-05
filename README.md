@@ -8,4 +8,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silvanus21&layout=compact&theme=merko" />
 </a>
 
-- 🌱 I’m currently learning AWS & Django
+- :computer: I’m currently learning AWS & Django
+
+- A covid'19 tracker : [view-page :arrow_upper_right: ](https://covid-19-tracker-sil21.herokuapp.com/)
