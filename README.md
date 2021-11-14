@@ -7,6 +7,3 @@
 <a href="https://github.com/Silvanus21">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silvanus21&layout=compact&theme=merko" />
 </a>
-
-- :computer: I'm currently learning MQTT, Erlang and some stuff related to load testing.
-- Working as Product Engineering Intern at [Gojek](https://www.gojek.io/)
